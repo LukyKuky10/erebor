@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "perky:blocks/naramek",
+    "up": "perky:blocks/naramek",
+    "north": "perky:blocks/naramek",
+    "east": "perky:blocks/naramek",
+    "south": "perky:blocks/naramek",
+    "west": "perky:blocks/naramek",
+    "particle": "perky:blocks/naramek"
+  }
+}

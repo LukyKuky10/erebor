@@ -45,12 +45,22 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "spageti"
+    },
+    {
+      "name": "Naramek",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naramek"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.perky.naramek": "Naramek",
       "block.perky.sperky": "Sperky",
       "block.perky.mince": "Mince",
       "item.perky.spageti": "Spageti",
