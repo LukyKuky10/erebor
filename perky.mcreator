@@ -1,0 +1,83 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Sperky",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sperky"
+    },
+    {
+      "name": "Arcikam",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arcikam"
+    },
+    {
+      "name": "Arcikam1",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arcikam_1"
+    },
+    {
+      "name": "Mince",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mince"
+    },
+    {
+      "name": "Spageti",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spageti"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.perky.sperky": "Sperky",
+      "block.perky.mince": "Mince",
+      "item.perky.spageti": "Spageti",
+      "block.perky.arcikam_1": "Arcikam 1",
+      "item.perky.arcikam": "Arcikam"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "perky",
+    "modName": "šperky",
+    "version": "1.0.0",
+    "author": "ditdo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.perky",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

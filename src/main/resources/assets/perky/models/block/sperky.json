@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "perky:blocks/diamant",
+    "up": "perky:blocks/diamond",
+    "north": "perky:blocks/diamant",
+    "east": "perky:blocks/diamond",
+    "south": "perky:blocks/diamant",
+    "west": "perky:blocks/diamond",
+    "particle": "perky:blocks/diamant"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "perky:blocks/arcikam2",
+    "up": "perky:blocks/arcikam2",
+    "north": "perky:blocks/arcikam2",
+    "east": "perky:blocks/arcikam2",
+    "south": "perky:blocks/arcikam2",
+    "west": "perky:blocks/arcikam2",
+    "particle": "perky:blocks/arcikam2"
+  }
+}
