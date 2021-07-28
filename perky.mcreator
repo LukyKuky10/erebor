@@ -81,6 +81,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smaknepravi"
+    },
+    {
+      "name": "Slimebiom",
+      "type": "biome",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slimebiom"
     }
   ],
   "variable_elements": [],
@@ -93,7 +102,8 @@
       "item.perky.smaknepravi_spawn_egg": "Smaknepravi Spawn Egg",
       "item.perky.spageti": "Spageti",
       "block.perky.arcikam_1": "Arcikam 1",
-      "item.perky.arcikam": "Arcikam"
+      "item.perky.arcikam": "Arcikam",
+      "biome.perky.slimebiom": "Slimebiom"
     }
   },
   "foldersRoot": {
