@@ -63,6 +63,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "necotakoveho"
+    },
+    {
+      "name": "Naramek",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naramek"
     }
   ],
   "variable_elements": [],
@@ -70,11 +79,9 @@
   "language_map": {
     "en_us": {
       "block.perky.sperky": "Sperky",
-      "biome.perky.obrhory": "Obrhory",
       "block.perky.mince": "Mince",
       "item.perky.spageti": "Spageti",
       "block.perky.arcikam_1": "Arcikam 1",
-      "biome.perky.necotakoveho": "Necotakoveho",
       "item.perky.arcikam": "Arcikam"
     }
   },
