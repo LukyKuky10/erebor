@@ -54,6 +54,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "naramek"
+    },
+    {
+      "name": "Ha",
+      "type": "biome",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ha"
     }
   ],
   "variable_elements": [],
@@ -62,6 +71,7 @@
     "en_us": {
       "block.perky.naramek": "Naramek",
       "block.perky.sperky": "Sperky",
+      "biome.perky.ha": "Ha",
       "block.perky.mince": "Mince",
       "item.perky.spageti": "Spageti",
       "block.perky.arcikam_1": "Arcikam 1",
