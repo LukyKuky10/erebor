@@ -50,7 +50,7 @@
       "name": "Obrhory",
       "type": "biome",
       "sortid": 6,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "obrhory"
@@ -59,7 +59,7 @@
       "name": "Necotakoveho",
       "type": "biome",
       "sortid": 7,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "necotakoveho"
@@ -68,10 +68,19 @@
       "name": "Naramek",
       "type": "block",
       "sortid": 6,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "naramek"
+    },
+    {
+      "name": "Smaknepravi",
+      "type": "mob",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smaknepravi"
     }
   ],
   "variable_elements": [],
@@ -79,7 +88,9 @@
   "language_map": {
     "en_us": {
       "block.perky.sperky": "Sperky",
+      "entity.perky.smaknepravi": "Smaknepravi",
       "block.perky.mince": "Mince",
+      "item.perky.smaknepravi_spawn_egg": "Smaknepravi Spawn Egg",
       "item.perky.spageti": "Spageti",
       "block.perky.arcikam_1": "Arcikam 1",
       "item.perky.arcikam": "Arcikam"
