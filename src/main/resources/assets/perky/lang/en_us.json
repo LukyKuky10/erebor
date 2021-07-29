@@ -2,8 +2,13 @@
   "block.perky.naramek": "Naramek",
   "block.perky.sperky": "Sperky",
   "biome.perky.ha": "Ha",
-  "block.perky.mince": "Mince",
+  "item.perky.palice": "Palice",
   "item.perky.spageti": "Spageti",
+  "entity.perky.smak": "Smak",
+  "item.perky.arcikam": "Arcikam",
+  "biome.perky.smakuvbiome": "Smakuvbiome",
+  "item.perky.rohlik": "Rohlik",
+  "block.perky.mince": "Mince",
   "block.perky.arcikam_1": "Arcikam 1",
-  "item.perky.arcikam": "Arcikam"
+  "item.perky.smak_spawn_egg": "Smak Spawn Egg"
 }

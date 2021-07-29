@@ -1,0 +1,39 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "rohlik_pixel",
+    "customModelName": "Normal",
+    "name": "Rohlik",
+    "specialInfo": [
+      "rohlik z kaufu"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.GOLD_NUGGET"
+    },
+    "shootConstantly": true,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "block.ancient_debris.hit"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 100.0,
+    "bulletPower": 100.0,
+    "bulletDamage": 100.0,
+    "bulletKnockback": 100,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "Blocks.CAKE"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

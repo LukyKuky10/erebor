@@ -1,0 +1,7 @@
+{
+  "parent": "perky:custom/palice",
+  "textures": {
+    "0": "perky:blocks/",
+    "particle": "perky:items/palice_1"
+  }
+}
