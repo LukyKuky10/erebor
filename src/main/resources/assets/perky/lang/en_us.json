@@ -1,7 +1,21 @@
 {
+  "block.perky.naramek": "Naramek",
+  "item.perky.smak_1_spawn_egg": "Smak 1 Spawn Egg",
   "block.perky.sperky": "Sperky",
-  "block.perky.mince": "Mince",
+  "entity.perky.smaknepravi": "Smaknepravi",
+  "biome.perky.ha": "Ha",
+  "item.perky.palice": "Palice",
   "item.perky.spageti": "Spageti",
+  "entity.perky.smak": "Smak",
+  "biome.perky.necotakoveho": "Necotakoveho",
+  "item.perky.arcikam": "Arcikam",
+  "biome.perky.slimebiom": "Slimebiom",
+  "biome.perky.smakuvbiome": "Smakuvbiome",
+  "item.perky.rohlik": "Rohlik",
+  "biome.perky.obrhory": "Obrhory",
+  "block.perky.mince": "Mince",
+  "item.perky.smaknepravi_spawn_egg": "Smaknepravi Spawn Egg",
   "block.perky.arcikam_1": "Arcikam 1",
-  "item.perky.arcikam": "Arcikam"
+  "entity.perky.smak_1": "Smak 1",
+  "item.perky.smak_spawn_egg": "Smak Spawn Egg"
 }

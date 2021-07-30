@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "perky:blocks/mince",
-    "up": "perky:blocks/mince",
-    "north": "perky:blocks/mince",
-    "east": "perky:blocks/mince",
-    "south": "perky:blocks/mince",
-    "west": "perky:blocks/mince",
-    "particle": "perky:blocks/mince"
+    "down": "perky:blocks/mince1",
+    "up": "perky:blocks/mince1",
+    "north": "perky:blocks/mince1",
+    "east": "perky:blocks/mince1",
+    "south": "perky:blocks/mince1",
+    "west": "perky:blocks/mince1",
+    "particle": "perky:blocks/mince1"
   }
 }

@@ -104,7 +104,7 @@
       "name": "Obrhory",
       "type": "biome",
       "sortid": 6,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "obrhory"
@@ -113,7 +113,7 @@
       "name": "Necotakoveho",
       "type": "biome",
       "sortid": 7,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "necotakoveho"
@@ -135,17 +135,40 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smaknepravi"
+    },
+    {
+      "name": "Smak1",
+      "type": "mob",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smak_1"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.perky.naramek": "Naramek",
+      "item.perky.smak_1_spawn_egg": "Smak 1 Spawn Egg",
       "block.perky.sperky": "Sperky",
+      "entity.perky.smaknepravi": "Smaknepravi",
+      "biome.perky.ha": "Ha",
+      "item.perky.palice": "Palice",
       "item.perky.spageti": "Spageti",
+      "entity.perky.smak": "Smak",
+      "biome.perky.necotakoveho": "Necotakoveho",
       "item.perky.arcikam": "Arcikam",
+      "biome.perky.slimebiom": "Slimebiom",
+      "biome.perky.smakuvbiome": "Smakuvbiome",
+      "item.perky.rohlik": "Rohlik",
+      "biome.perky.obrhory": "Obrhory",
       "block.perky.mince": "Mince",
-      "block.perky.arcikam_1": "Arcikam 1"
+      "item.perky.smaknepravi_spawn_egg": "Smaknepravi Spawn Egg",
+      "block.perky.arcikam_1": "Arcikam 1",
+      "entity.perky.smak_1": "Smak 1",
+      "item.perky.smak_spawn_egg": "Smak Spawn Egg"
     }
   },
   "foldersRoot": {

@@ -2,10 +2,10 @@
   "_fv": 18,
   "_type": "mob",
   "definition": {
-    "mobName": "Smak",
+    "mobName": "Smak 1",
     "mobLabel": "",
-    "mobModelName": "Modelcustom_model",
-    "mobModelTexture": "texture.png",
+    "mobModelName": "Biped",
+    "mobModelTexture": "smak_texture.png",
     "mobModelGlowTexture": "",
     "modelWidth": 0.6,
     "modelHeight": 1.8,
@@ -13,18 +13,18 @@
     "mountedYOffset": 0.0,
     "hasSpawnEgg": true,
     "spawnEggBaseColor": {
-      "value": -3407872,
+      "value": -52429,
       "falpha": 0.0
     },
     "spawnEggDotColor": {
-      "value": -16750849,
+      "value": -16711681,
       "falpha": 0.0
     },
     "creativeTab": {
       "value": "MISC"
     },
-    "isBoss": true,
-    "bossBarColor": "RED",
+    "isBoss": false,
+    "bossBarColor": "PINK",
     "bossBarType": "PROGRESS",
     "equipmentMainHand": {
       "value": ""
@@ -46,16 +46,16 @@
     },
     "mobBehaviourType": "Mob",
     "mobCreatureType": "UNDEFINED",
-    "attackStrength": 5,
+    "attackStrength": 3,
     "attackKnockback": 0.0,
-    "knockbackResistance": 2.0,
-    "movementSpeed": 0.19999999999999998,
+    "knockbackResistance": 0.0,
+    "movementSpeed": 0.3,
     "armorBaseValue": 0.0,
     "trackingRange": 64,
-    "health": 100,
+    "health": 10,
     "xpAmount": 0,
     "waterMob": false,
-    "flyingMob": true,
+    "flyingMob": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
@@ -64,17 +64,17 @@
     "canControlForward": false,
     "canControlStrafe": false,
     "immuneToFire": true,
-    "immuneToArrows": false,
-    "immuneToFallDamage": true,
+    "immuneToArrows": true,
+    "immuneToFallDamage": false,
     "immuneToCactus": false,
     "immuneToDrowning": true,
-    "immuneToLightning": true,
-    "immuneToPotions": false,
+    "immuneToLightning": false,
+    "immuneToPotions": true,
     "immuneToPlayer": false,
-    "immuneToExplosion": true,
+    "immuneToExplosion": false,
     "immuneToTrident": false,
-    "immuneToAnvil": true,
-    "immuneToWither": false,
+    "immuneToAnvil": false,
+    "immuneToWither": true,
     "immuneToDragonBreath": true,
     "mobDrop": {
       "value": ""
@@ -83,17 +83,17 @@
       "value": ""
     },
     "hurtSound": {
-      "value": "entity.generic.hurt"
+      "value": "ambient.crimson_forest.mood"
     },
     "deathSound": {
-      "value": "entity.generic.death"
+      "value": "block.anvil.fall"
     },
     "stepSound": {
       "value": ""
     },
     "spawnParticles": false,
     "particleToSpawn": {
-      "value": "CRIT"
+      "value": "EXPLOSION_NORMAL"
     },
     "particleSpawningShape": "Spread",
     "particleSpawningRadious": 0.5,
@@ -110,7 +110,7 @@
     },
     "rangedItemType": "Default item",
     "spawnThisMob": true,
-    "doesDespawnWhenIdle": false,
+    "doesDespawnWhenIdle": true,
     "spawningProbability": 20,
     "mobSpawningType": "monster",
     "minNumberOfMobsPerGroup": 4,
